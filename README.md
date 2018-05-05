@@ -1,4 +1,4 @@
-![QuarkXPress 2018 logo](http://www.quarkforums.com/resources/2018/QX2018-icon-150.jpg)
+![QuarkXPress 2018 logo](http://www.quarkforums.com/resources/git/githeader.jpg)
 # Create Grid by Dividing a Box
 This JavaScript needs to be installed in QuarkXPress 2018. Feel free to modify this script to your own needs.  
 **Please see here on how to install: [**Installation Instructions**](#howinstall)**
@@ -13,6 +13,8 @@ Before:
 ![Choose layer](http://www.quarkforums.com/resources/git/md_images/createagridbydividingbox1.png)  
 After (parameters: 5 columns with 2pt padding, 3 rows with 2pt padding):     
 ![Choose layer](http://www.quarkforums.com/resources/git/md_images/createagridbydividingbox2.png)
+###Version History
+May 2018: Original version as supplied with QuarkXPress 2018
 ## <a name="howinstall"></a>How to install
 1. On the GitHub page, download the ZIP by clicking on the green button "Clone or download"  
 ![Step 1](http://www.quarkforums.com/resources/git/install_images/step1.png)
@@ -32,3 +34,7 @@ Step 5: On MacOS copy to|Step 5: On Windows copy to
 (so into your "Documents" folder)|(so into your "Documents" folder)
 
 **Run the JavaScript by first double clicking the folder; and then double clicking the Script itself (in the JavaScript palette of QuarkXPress).**
+
+## More Information
+More information on QuarkXPress and how to use JavaScript in QuarkXPress can be found here:  
+<http://www.quark.com/Support/Documentation/QuarkXPress/>
