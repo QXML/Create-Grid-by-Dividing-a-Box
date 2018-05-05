@@ -12,8 +12,8 @@ This sample ships with QuarkXPress 2018
 Before:  
 ![Choose layer](http://www.quarkforums.com/resources/git/md_images/createagridbydividingbox1.png)  
 After (parameters: 5 columns with 2pt padding, 3 rows with 2pt padding):     
-![Choose layer](http://www.quarkforums.com/resources/git/md_images/createagridbydividingbox2.png)
-###Version History
+![Choose layer](http://www.quarkforums.com/resources/git/md_images/createagridbydividingbox2.png)  
+### Version History  
 May 2018: Original version as supplied with QuarkXPress 2018
 ## <a name="howinstall"></a>How to install
 1. On the GitHub page, download the ZIP by clicking on the green button "Clone or download"  
